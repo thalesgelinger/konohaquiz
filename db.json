@@ -1,0 +1,46 @@
+{
+  "bg": "https://cdn.hipwallpaper.com/i/76/11/mZF8JW.jpg",
+  "title": "Quiz sobre o universo do mestre do discuro no jutsu",
+  "description": "Teste seus conhecimendo e habilidades sobre a vila do nanadaime",
+  "questions": [
+    {
+      "image": "https://img.quizur.com/f/img5ebe9c1a60dce5.34352344.jpg?lastEdited=1589550109",
+      "title": "Quem matou os pais do Naruto?",
+      "description": "Pra começar com tudo",
+      "answer": 2,
+      "alternatives": [
+        "Hiruzen Sarutobi",
+        "Madara Uchiha",
+        "Kurama (Kyuubi)",
+        "Danzo Shimura"
+      ]
+    },
+    {
+      "image": "https://img.quizur.com/f/img5ec1765280bf24.69936919.jpg?lastEdited=1589737048",
+      "title": "Que time é esse",
+      "description": "Ta fácil vai",
+      "answer": 0,
+      "alternatives": [
+         "Time 4",
+         "Time 6",
+         "Time 7",
+         "Time 8",
+         "Time 10"
+      ]
+    }
+  ],
+  "external": [
+    ""
+  ],
+  "theme": {
+    "colors": {
+      "primary": "#ff9800",
+      "secondary": "#2979ff",
+      "mainBg": "#171B35",
+      "contrastText": "#FFFFFF",
+      "wrong": "#FF5722",
+      "success": "#4CAF50"
+    },
+    "borderRadius": "4px"
+  }
+}
